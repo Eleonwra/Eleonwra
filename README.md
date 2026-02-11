@@ -3,7 +3,7 @@
 ### 🛠️ Skills
 **Math**: Statistics, Linear Algebra, Probability Theory, Bayesian Learning.
 
-**Machine Learning:** Skikit-learn, Transformers
+**Machine Learning:** Scikit-learn, Transformers
 
 **Data Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn), R, SPSS
 
