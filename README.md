@@ -4,7 +4,9 @@
 **Math**: Statistics, Linear Algebra, Probability Theory, Bayesian Learning.
 
 **Machine Learning:** Skikit-learn, Transformers
+
 **Data Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn), R, SPSS
+
 **Tools:** Git, Hugging Face, Streamlit, LaTeX
 
 ### 📫 Connect with me
