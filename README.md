@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### Mathematician & Data Analyst | Aspiring ML Engineer
-I am currently focused on bridging the gap between mathematical theory and production-grade software.
+I am currently bridging the gap between mathematical theory and production-grade software.
 
 - 🛠 **Current Focus:** Refactoring my ML portfolio into production-ready systems.
 - ⚙️ **The Setup:** Implementing **CI/CD pipelines** (GitHub Actions), **Docker** containerization, and **venv** management.
