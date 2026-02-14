@@ -1,4 +1,10 @@
 ## Hi there 👋
+### Mathematician & Data Analyst | Aspiring ML Engineer | Transitioning research-based algorithms into production-ready systems using Docker & CI/CD.
+I am currently focused on bridging the gap between mathematical theory and production-grade software.
+
+- 🛠 **Current Focus:** Refactoring my ML portfolio into production-ready systems.
+- ⚙️ **The Setup:** Implementing **CI/CD pipelines** (GitHub Actions), **Docker** containerization, and **venv** management.
+- 📈 **Goal:** Ensuring every algorithm I build is scalable, testable, and deployment-ready.
 
 ### 🛠️ Skills
 **Math**: Statistics, Linear Algebra, Probability Theory, Bayesian Learning.
