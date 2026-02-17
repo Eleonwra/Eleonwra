@@ -2,7 +2,7 @@
 ### Mathematician & Data Analyst | Aspiring ML Engineer
 I am currently bridging the gap between mathematical theory and production-grade software.
 
-- 🛠 **Current Focus:** Refactoring my ML portfolio into production-ready systems.
+- 🛠 **Current Focus:** Refactoring my portfolio into production-ready systems.
 - ⚙️ **The Setup:** Implementing **CI/CD pipelines** (GitHub Actions), **Docker** containerization, and **venv** management.
 - 📈 **Goal:** Ensuring every algorithm I build is scalable, testable, and deployment-ready.
 
@@ -13,7 +13,7 @@ I am currently bridging the gap between mathematical theory and production-grade
 
 **Data Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn), R, SPSS
 
-**Tools:** Git, Hugging Face, Streamlit, LaTeX
+**Tools:** Git, Hugging Face, Streamlit, LaTeX, pgAdmin (PostgreSQL, PostGIS), 
 
 ### 📫 Connect with me
 
