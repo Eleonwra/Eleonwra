@@ -1,6 +1,5 @@
-## Hi there 👋
-### Mathematician & Data Analyst | Aspiring ML Engineer
-I am currently bridging the gap between mathematical theory and production-grade software.
+## 👋 Hi, I'm Eleonora
+I am a Mathematician transitioning into Machine Learning Engineering, focused on building scalable, production-ready AI systems.
 
 - 🛠 **Current Focus:** Refactoring my portfolio into production-ready systems.
 - ⚙️ **The Setup:** Implementing **CI/CD pipelines** (GitHub Actions), **Docker** containerization, and **venv** management.
@@ -14,6 +13,10 @@ I am currently bridging the gap between mathematical theory and production-grade
 **Data Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn), R, SPSS
 
 **Tools:** Git, Hugging Face, Streamlit, LaTeX, pgAdmin (PostgreSQL, PostGIS), 
+
+### 👇 Feel free to explore my work in the link below!
+
+[Portfolio](https://github.com/Eleonwra/Portfolio.git)
 
 ### 📫 Connect with me
 
