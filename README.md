@@ -10,7 +10,7 @@ I am a **Mathematician** transitioning into **Machine Learning Engineering**, le
 To bring a mathematician’s perspective to a technical team. I aim to move beyond just "applying models" by understanding the why behind them to drive innovative solutions. My objective is to combine deep analytical thinking with solid CS foundations to build reliable, high-impact data systems.
 
 ### 📂 Portfolio & Projects
-Feel free to explore my **full project documentation and research reports** [here](https://drive.google.com/drive/folders/1nq6HYgmBRGeSVvsSFTJMUBWLjJ_HS8wd?usp=drive_link).
+Feel free to explore my **full project documentation and research reports** [here](https://github.com/Eleonwra/Portfolio.git).
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estoikopoulou)
