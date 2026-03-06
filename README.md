@@ -2,7 +2,7 @@
 I am a **Mathematician** transitioning into **Machine Learning Engineering**, leveraging mathematical intuition to engineer high-performance, deployment-ready models.
 
 ### Current Focus
-* **Bridging to Computer Science**: Transitioning my mathematical background into the CS domain by mastering Version Control (Git/GitHub) and refactoring research code into modular, professional software.
+* **Bridging to Computer Science**: Transitioning my mathematical background into the CS domain by mastering Version Control (Git/GitHub).
 * **Portfolio Refactoring**: Organizing my projects into clean, reproducible repositories that follow industry standards.
 
 ## 📈 The Goal:
