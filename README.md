@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Eleonora
-I am a **Mathematician** transitioning into **Machine Learning Engineering**, leveraging mathematical intuition to engineer high-performance, deployment-ready models.
+I am a **Mathematician** transitioning into **Data Science (ML-focused)**, leveraging mathematical intuition to engineer high-performance, deployment-ready models.
 
 ### Current Focus
 * **Bridging to Computer Science**: Transitioning my mathematical background into the CS domain by mastering Version Control (Git/GitHub).
