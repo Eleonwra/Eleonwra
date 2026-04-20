@@ -1,13 +1,12 @@
 ## 👋 Hi, I'm Eleonora
-I am a **Mathematician** transitioning into **Data Science (ML-focused)**, leveraging mathematical intuition to engineer high-performance, deployment-ready models.
+I am a **Mathematician** transitioning into **Data Science (ML-focused)**, leveraging mathematical intuition to build strong analytical and data-driven solutions.
 
 ### Current Focus
-* **Bridging to Computer Science**: Transitioning my mathematical background into the CS domain by mastering Version Control (Git/GitHub).
 * **Portfolio Refactoring**: Organizing my projects into clean, reproducible repositories that follow industry standards.
 
 ## 📈 The Goal:
 
-To bring a mathematician’s perspective to a technical team. I aim to move beyond just applying models by understanding the why behind them to drive innovative solutions.
+To bring a mathematician’s perspective to a technical team by focusing on understanding the principles behind models rather than just applying them, in order to support more thoughtful and effective solutions.
 
 ### 📂 Portfolio & Projects
 Feel free to explore my **full project documentation and research reports** [here](https://github.com/Eleonwra/Portfolio.git).
