@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Eleonora
-I am a **Mathematician** transitioning into **Data Science (ML-focused)**, leveraging mathematical intuition to build strong analytical and data-driven solutions.
+I am a **Mathematician** transitioning into **Data Science**, leveraging mathematical intuition to build strong analytical and data-driven solutions.
 
 ### Current Focus
 * **Portfolio Refactoring**: Organizing my projects into clean, reproducible repositories that follow industry standards.
